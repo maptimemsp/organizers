@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saint Anthony Park Library",
+        "Address": "2245 Como Ave, St. Paul",
+        "Contact": "branch.stanthony@ci.stpaul.mn.us",
+        "Capacity": 60,
+        "Website": "http://www.sppl.org/about/locations/saint-anthony-park",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19360,
+           44.98099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Highland Park Library",
+        "Address": "1974 Ford Pkwy, St. Paul",
+        "Contact": "branch.highland@ci.stpaul.mn.us",
+        "Capacity": 42,
+        "Website": "http://www.sppl.org/about/locations/highland-park",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.18299,
+           44.91745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washburn Library",
+        "Address": "5244 Lyndale Ave S, Minneapolis",
+        "Capacity": 60,
+        "Website": "http://www.hclib.org/washburn",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28869,
+           44.90733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Walker Library",
+        "Address": "2880 Hennepin Ave, Minneapolis",
+        "Capacity": 49,
+        "Website": "http://www.hclib.org/walker",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29867,
+           44.94956
+        ]
+      }
+    }
+  ]
+}
