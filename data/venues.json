@@ -4,20 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Saint Anthony Park Library",
-        "Address": "2245 Como Ave, St. Paul",
-        "Contact": "branch.stanthony@ci.stpaul.mn.us",
-        "Capacity": 60,
-        "Website": "http://www.sppl.org/about/locations/saint-anthony-park",
-        "marker-symbol": "library",
-        "marker-color": "#0355af",
+        "Name": "Department of Revenue, Stassen Building",
+        "Address": "600 N Robert St, St. Paul",
+        "Contact": "Kent.Treichel@state.mn.us",
+        "Capacity": 100,
+        "marker-symbol": "star",
+        "marker-color": "#ff2600",
         "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.19360,
-           44.98099
+          -93.09597,
+          44.95386
         ]
       }
     },
@@ -37,17 +36,18 @@
         "type": "Point",
         "coordinates": [
           -93.18299,
-           44.91745
+          44.91745
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "Washburn Library",
-        "Address": "5244 Lyndale Ave S, Minneapolis",
+        "Name": "Saint Anthony Park Library",
+        "Address": "2245 Como Ave, St. Paul",
+        "Contact": "branch.stanthony@ci.stpaul.mn.us",
         "Capacity": 60,
-        "Website": "http://www.hclib.org/washburn",
+        "Website": "http://www.sppl.org/about/locations/saint-anthony-park",
         "marker-symbol": "library",
         "marker-color": "#0355af",
         "marker-size": "medium"
@@ -55,8 +55,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.28869,
-           44.90733
+          -93.1936,
+          44.98099
         ]
       }
     },
@@ -75,7 +75,45 @@
         "type": "Point",
         "coordinates": [
           -93.29867,
-           44.94956
+          44.94956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washburn Library",
+        "Address": "5244 Lyndale Ave S, Minneapolis",
+        "Capacity": 60,
+        "Website": "http://www.hclib.org/washburn",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28869,
+          44.90733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wilder Foundation",
+        "Address": "451 Lexington Pkwy N, St. Paul",
+        "Capacity": 24,
+        "Website": "https://www.wilder.org",
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.14885,
+           44.95477
         ]
       }
     }
