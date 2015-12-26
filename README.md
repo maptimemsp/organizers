@@ -1,13 +1,12 @@
 # Organizer Resources
 Resources for MaptimeMSP Organizers.
-## msp_graphics
-Contents:
-- Source ai files for logo, stickers and buttons.
-- Logos (png) for cartodb and Flat Rock
-- Handy transparent png of our beloved MaptimeMSP logo:
+
+## Data
+- **venues.json**: Current free venues for our events!
+
+## Graphics (msp_graphics)  
+- Adobe Illustrator (.ai) files for our logo, stickers, and buttons.
+- Logos (png) for our awesome sponsors, CartoDB and Flat Rock Geographics.
+- Handy transparent .png of our beloved MaptimeMSP logo, as shown:
 
 ![msp_logo png](/msp_graphics/msp_logo.png)
-
-
-
-
