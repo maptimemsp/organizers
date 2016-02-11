@@ -1,6 +1,9 @@
 # Organizer Resources
 Resources for MaptimeMSP Organizers.
 
+## Details and Directions
+- Info on how to organize meetings, etc. on our Organizers [Wiki](../../wiki)
+
 ## Data
 - **venues.json**: Current free venues for our events!
 
