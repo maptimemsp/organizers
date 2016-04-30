@@ -111,6 +111,27 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Wilson Library",
+        "Address": "309 19th Ave S, Room S30B (sub-basement), Minneapolis",
+        "Contact": "matt0089@umn.edu",
+        "Capacity": 40,
+        "Projector": "Unknown",
+        "ProjectorScreen": "Unknown",
+        "marker-symbol": "library",
+        "marker-color": "#0355af",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.243742,
+          44.971040
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Wilder Foundation",
         "Address": "451 Lexington Pkwy N, St. Paul",
         "Capacity": 24,
